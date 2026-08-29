@@ -21,7 +21,7 @@ and an interactive dashboard.
 - **Interactive dashboard** — enter student details and get an instant predicted
   score with a clear performance category.
 - **Explainable predictions** — a per-factor breakdown showing which inputs push
-  the student above or below a typical student (SRS §21.8).
+  the student above or below a typical student (SRS 21.8).
 - **Data insights** — scatter plots of each feature against the final score, plus
   an actual-vs-predicted plot.
 - **Model transparency** — R², RMSE, MAE, MSE and the learned coefficients.
