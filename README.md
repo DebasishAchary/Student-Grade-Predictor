@@ -165,7 +165,7 @@ student_data.csv
 | Previous Examination Marks | 0 – 100 |
 | Internal Assessment Marks | 0 – 100 |
 
-### Performance bands (SRS §3.6)
+### Performance bands (SRS 3.6)
 
 | Predicted score | Category |
 | --- | --- |
