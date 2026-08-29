@@ -1,0 +1,20 @@
+{
+  "algorithm": "Linear Regression (Ordinary Least Squares)",
+  "trained_at": "2026-08-26T23:29:22",
+  "n_train": 400,
+  "n_test": 100,
+  "metrics": {
+    "mae": 2.4824,
+    "mse": 9.7059,
+    "rmse": 3.1154,
+    "r2": 0.9402
+  },
+  "coefficients": {
+    "study_hours": 1.6334,
+    "attendance": 0.1153,
+    "assignment_marks": 0.1958,
+    "previous_marks": 0.2967,
+    "internal_marks": 0.2281
+  },
+  "intercept": -6.5753
+}
