@@ -155,7 +155,7 @@ student_data.csv
  user input → validate → predict → classify → explain   ← app.py
 ```
 
-### Input features (SRS §6.1)
+### Input features (SRS 6.1)
 
 | Feature | Range |
 | --- | --- |
@@ -192,7 +192,7 @@ All tunable parameters live in `src/config.py`:
 
 ---
 
-## Ethics & limitations (SRS §29, §20)
+## Ethics & limitations (SRS 29, 20)
 
 - The predicted score is an **estimate**, not a guaranteed examination result.
 - The model only uses five inputs; real performance also depends on motivation,
@@ -206,7 +206,7 @@ All tunable parameters live in `src/config.py`:
 
 ---
 
-## Possible future enhancements (SRS §21)
+## Possible future enhancements (SRS 21)
 
 Comparing multiple algorithms (Decision Tree, Random Forest, Gradient Boosting),
 pass/fail classification, at-risk student detection, a faculty dashboard,
